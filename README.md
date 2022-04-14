@@ -1,3 +1,15 @@
+# NextJS Sample App
+
+This project is a practice project from [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+## Key Concepts
+
+For page routing, can use `pages/pageName.js` or `pages/pageName/index.js`
+
+put square brackets around a page name to allow dynamic values `pages/pageName/[uniqueId].js`
+
+## NextJS Default README
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -16,5 +16,11 @@
   "devDependencies": {
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
   }
 }
